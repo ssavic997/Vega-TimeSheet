@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
-
-import Card from "./Card/Card";
+import "./Card/CardData";
+import Card from "./Card";
 import "./Header.css";
 import logo from "../logo.png";
 
